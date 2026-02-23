@@ -1,0 +1,11 @@
+# Telegram Bot Library (Webhook support ke saath)
+python-telegram-bot[webhooks]==21.4
+
+# FastAPI (Web server ke liye)
+fastapi==0.115.0
+
+# Uvicorn (ASGI server)
+uvicorn[standard]==0.30.6
+
+# Async HTTP requests ke liye (API call + keep-alive ping)
+aiohttp==3.10.5
